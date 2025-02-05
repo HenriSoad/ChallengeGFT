@@ -1,0 +1,16 @@
+C:\Users\gprado\Desktop\Challenges\ChallengeGFT\ApplicationRisk\ApplicationRisk\bin\Debug\net5.0\ApplicationRisk.exe
+C:\Users\gprado\Desktop\Challenges\ChallengeGFT\ApplicationRisk\ApplicationRisk\bin\Debug\net5.0\ApplicationRisk.deps.json
+C:\Users\gprado\Desktop\Challenges\ChallengeGFT\ApplicationRisk\ApplicationRisk\bin\Debug\net5.0\ApplicationRisk.runtimeconfig.json
+C:\Users\gprado\Desktop\Challenges\ChallengeGFT\ApplicationRisk\ApplicationRisk\bin\Debug\net5.0\ApplicationRisk.runtimeconfig.dev.json
+C:\Users\gprado\Desktop\Challenges\ChallengeGFT\ApplicationRisk\ApplicationRisk\bin\Debug\net5.0\ApplicationRisk.dll
+C:\Users\gprado\Desktop\Challenges\ChallengeGFT\ApplicationRisk\ApplicationRisk\bin\Debug\net5.0\ref\ApplicationRisk.dll
+C:\Users\gprado\Desktop\Challenges\ChallengeGFT\ApplicationRisk\ApplicationRisk\bin\Debug\net5.0\ApplicationRisk.pdb
+C:\Users\gprado\Desktop\Challenges\ChallengeGFT\ApplicationRisk\ApplicationRisk\obj\Debug\net5.0\ApplicationRisk.csproj.AssemblyReference.cache
+C:\Users\gprado\Desktop\Challenges\ChallengeGFT\ApplicationRisk\ApplicationRisk\obj\Debug\net5.0\ApplicationRisk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gprado\Desktop\Challenges\ChallengeGFT\ApplicationRisk\ApplicationRisk\obj\Debug\net5.0\ApplicationRisk.AssemblyInfoInputs.cache
+C:\Users\gprado\Desktop\Challenges\ChallengeGFT\ApplicationRisk\ApplicationRisk\obj\Debug\net5.0\ApplicationRisk.AssemblyInfo.cs
+C:\Users\gprado\Desktop\Challenges\ChallengeGFT\ApplicationRisk\ApplicationRisk\obj\Debug\net5.0\ApplicationRisk.csproj.CoreCompileInputs.cache
+C:\Users\gprado\Desktop\Challenges\ChallengeGFT\ApplicationRisk\ApplicationRisk\obj\Debug\net5.0\ApplicationRisk.dll
+C:\Users\gprado\Desktop\Challenges\ChallengeGFT\ApplicationRisk\ApplicationRisk\obj\Debug\net5.0\ref\ApplicationRisk.dll
+C:\Users\gprado\Desktop\Challenges\ChallengeGFT\ApplicationRisk\ApplicationRisk\obj\Debug\net5.0\ApplicationRisk.pdb
+C:\Users\gprado\Desktop\Challenges\ChallengeGFT\ApplicationRisk\ApplicationRisk\obj\Debug\net5.0\ApplicationRisk.genruntimeconfig.cache
